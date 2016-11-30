@@ -1,1 +1,1 @@
-<?php echo "sveikas pasauli"
+<?php echo "sveikas pasauli !"
